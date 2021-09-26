@@ -1,4 +1,4 @@
-  ##Olá meu nome é Rodrigo Lopes
+   ##Olá meu nome é Rodrigo Lopes
 
 - Atualmente trabalho como front-end
 - Estudo react.js, react native e node.js
