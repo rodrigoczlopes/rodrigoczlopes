@@ -1,6 +1,6 @@
    ##Olá meu nome é Rodrigo Lopes
 
-- Atualmente trabalho como front-end
+- Atualmente trabalho como back-end
 - Estudo react.js, react native e node.js
 - Contato: rodrigoczlopes@gmail.com
 - Sistema Operacional: Linux Ubuntu 20.04.3 
