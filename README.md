@@ -3,7 +3,7 @@
 - Atualmente trabalho como front-end
 - Estudo react.js, react native e node.js
 - Contato: rodrigoczlopes@gmail.com
-
+- Sistema Operacional: Linux Ubuntu 20.04.3 
  <div>
   <a href="https://github.com/rodrigoczlopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
