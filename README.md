@@ -1,4 +1,4 @@
-  - Olá meu nome é Rodrigo Lopes
+   - Olá meu nome é Rodrigo Lopes
 
 - Atualmente trabalho como Full-Stack.
 - Estudo react.js, react native e node.js.
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
+  <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"> 
 </div>
 
  ###
