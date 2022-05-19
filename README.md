@@ -1,4 +1,4 @@
-  Olá meu nome é Rodrigo Lopes
+   Olá meu nome é Rodrigo Lopes
 
 - Atualmente trabalho como Full-Stack.
 - Estudo react.js, react native e node.js.
