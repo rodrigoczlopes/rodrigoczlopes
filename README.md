@@ -1,6 +1,6 @@
    - Olá meu nome é Rodrigo Lopes
 
-- Full-stack Unimed Varginha.
+- Desenvolvedor na empresa Unimed Varginha.
 - Estudo react.js, react native e node.js.
 
  <div>
