@@ -4,7 +4,7 @@
 - Estudo react.js, react native e node.js.
  <div>
   <a href="https://github.com/rodrigoczlopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
