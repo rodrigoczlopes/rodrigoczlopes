@@ -1,6 +1,6 @@
    - Olá meu nome é Rodrigo Lopes
 
-- Atualmente trabalho como Full-Stack.
+- Full-stack Unimed Varginha.
 - Estudo react.js, react native e node.js.
  <div>
   <a href="https://github.com/rodrigoczlopes">
