@@ -2,6 +2,7 @@
 
 - Full-stack Unimed Varginha.
 - Estudo react.js, react native e node.js.
+
  <div>
   <a href="https://github.com/rodrigoczlopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=algolia"/>
