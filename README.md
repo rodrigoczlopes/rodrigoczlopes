@@ -1,7 +1,6 @@
    - Olá meu nome é Rodrigo Lopes
 
 - Desenvolvedor na empresa Unimed Varginha.
-- Estudo react.js, react native e node.js.
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
