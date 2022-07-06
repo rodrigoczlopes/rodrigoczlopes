@@ -1,5 +1,4 @@
    - Olá meu nome é Rodrigo Lopes
-
 - Desenvolvedor na empresa Unimed Varginha.
 
  <div>  
