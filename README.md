@@ -1,5 +1,6 @@
  - 💻 Hi there, i'm Rodrigo
 - 👨🏼‍💻 Full-stack in Unimed Varginha.
+- 🐧 S.O: Ubuntu 22.04
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
@@ -18,7 +19,9 @@
   <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
   <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"> 
    <img align="center" height="30" width="30"alt="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
-   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+   <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+ 
 </div>
 
  ###
