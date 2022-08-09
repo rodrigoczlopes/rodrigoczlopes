@@ -1,5 +1,5 @@
-   - Olá meu nome é Rodrigo Lopes
-- Desenvolvedor na empresa Unimed Varginha.
+ - 👨🏼‍💻 Hi there, i'm Rodrigo
+- 👨🏼‍💻 Full-stack in Unimed Varginha.
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
