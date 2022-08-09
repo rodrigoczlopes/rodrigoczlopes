@@ -1,4 +1,4 @@
- - 👨🏼‍💻 Hi there, i'm Rodrigo
+ - 💻 Hi there, i'm Rodrigo
 - 👨🏼‍💻 Full-stack in Unimed Varginha.
 
  <div>  
