@@ -1,6 +1,5 @@
  - 💻 Hi there, i'm Rodrigo
 - 👨🏼‍💻 Full-stack in Unimed Varginha.
-- 🐧 S.O: Ubuntu 22.04
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
