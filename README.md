@@ -3,10 +3,10 @@
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodrigoczlopes&theme=tokyonight"/>   
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodrigoczlopes&theme=tokyonight"/>   
   </br>
-  <img width="77%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=tokyonight"/>
+  <img width="81%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
