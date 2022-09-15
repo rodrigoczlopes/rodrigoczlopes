@@ -3,10 +3,10 @@
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
-  <img height="189m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=TokyoNight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=TokyoNight&hide_border=true&include_all_commits=true&count_private=true"/>   
+  <img height="189m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>   
   </br>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=TokyoNight"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
