@@ -22,6 +22,9 @@
    <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
  <img align="center" alt="PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 </div>
+<img align="center" alt="figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+</div>
+
 
  ###
  
