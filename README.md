@@ -1,5 +1,5 @@
  - 💻 Hi there, i'm Rodrigo.
-- 👨🏼‍💻 Desenvolvedor Web React.js, Node.js estudando Typescript e React Native. Tenho experiência com Docker, banco de dados e Javascript.
+- 👨🏼‍💻 Desenvolvedor React.js, Typescript e React Native. 
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
