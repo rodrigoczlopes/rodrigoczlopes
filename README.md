@@ -9,22 +9,19 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
-  <img align="center" alt="Rodrigo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"> 
+   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"> 
    <img align="center" height="30" width="30"alt="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
    <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
- <img align="center" alt="PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
- <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 </div>
 
 </div>
-
 
  ###
  
