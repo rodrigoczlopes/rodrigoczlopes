@@ -1,5 +1,5 @@
  - 💻 Hi there, i'm Rodrigo.
-- 👨🏼‍💻 Developer Typescript with React and React Native. 
+- 👨🏼‍💻 Developer Typescript with React, React Native and studying Vue3. 
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
