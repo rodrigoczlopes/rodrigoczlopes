@@ -6,7 +6,7 @@
   <img height="199m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=10&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>   
   </br>
- <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexassisb&theme=vue"/>
+ <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigoczlopes&theme=vue"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
