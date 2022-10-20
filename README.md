@@ -6,7 +6,6 @@
   <img height="199m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=10&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>   
   </br>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
