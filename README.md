@@ -1,12 +1,9 @@
  - 💻 Hi there, i'm Rodrigo.
 - 👨🏼‍💻 Developer Typescript with React, Node and studying React Native. 
 
- <div>  
-  <a href="https://github.com/rodrigoczlopes">
-  <img height="190m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="190m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>   
-  </br>
-<div style="display: inline_block"><br>
+- 🎯Languages and Tools:
+
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,8 +13,17 @@
   <img align="center" alt="node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
    <img align="center" height="30" width="30"alt="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
-   <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
-</div>
+   <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+ <img align="center" alt="oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+ <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+ 
+</div><br>
+
+ <div>  
+  <a href="https://github.com/rodrigoczlopes">
+  <img height="190m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="190m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>   
+  </br>
 
 </div>
 
