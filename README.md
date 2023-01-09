@@ -23,8 +23,8 @@
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
-  <img height="190m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="190m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>   
+  <img height="190m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="190m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>   
   </br>
 
 </div>
