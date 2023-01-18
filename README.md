@@ -1,5 +1,6 @@
  - 💻 Hi there, i'm Rodrigo.
 - 👨🏼‍💻 Developer Typescript with React, Node and studying React Native. 
+- 🐧 Operational System: Ubuntu 22.04.1 LTS
 
 - 🎯Languages and Tools:
 
