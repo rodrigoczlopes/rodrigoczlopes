@@ -1,5 +1,5 @@
  - 💻 Hi there, i'm Rodrigo.
-- 👨🏼‍💻 Developer Typescript with React, Node and studying React Native. 
+- 👨🏼‍💻 Developer Typescript with React, Node and studying CSharp. 
 
 - 🎯Languages and Tools:
 
