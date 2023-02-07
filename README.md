@@ -27,7 +27,7 @@
   </br>
 
 </div>
- ###
+
  
 <div> 
   <a href="https://www.instagram.com/rodrigoczlopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=orange" target="_blank" target="_blank"></a>
