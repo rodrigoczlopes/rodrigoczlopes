@@ -22,7 +22,7 @@
 
  <div>  
   <a href="https://github.com/rodrigoczlopes">
-  <img height="190m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=rodrigoczlopes&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="190m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoczlopes&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true"/>   
   </br>
 
