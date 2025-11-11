@@ -1,5 +1,5 @@
  - 💻 Hi there, i'm Rodrigo.
- - 👨🏼‍💻 Developer Javascript with React, Node and studying Java. 
+ - 👨🏼‍💻 Developer Javascript with React and studying Java. 
 
 - 🎯Languages and Tools:
 
