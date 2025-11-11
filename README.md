@@ -1,7 +1,7 @@
  - 💻 Hi there, i'm Rodrigo.
  - 👨🏼‍💻 Developer Javascript with React and studying Java. 
 
-- 🎯Languages and Tools:
+- 🎯Languages and Tools: 
 
 <div style="display: inline_block">
  <p>  
