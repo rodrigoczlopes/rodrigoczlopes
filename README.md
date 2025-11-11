@@ -1,11 +1,11 @@
  - 💻 Hi there, i'm Rodrigo.
-- 👨🏼‍💻 Developer Javascript with React, Node and studying Kotlin. 
+ - 👨🏼‍💻 Developer Javascript with React, Node and studying Java. 
 
 - 🎯Languages and Tools:
 
 <div style="display: inline_block">
  <p>
-  <img align="center" alt="Java" height="30" width="40" src="  https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
